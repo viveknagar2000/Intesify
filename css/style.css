@@ -1,0 +1,312 @@
+*{	margin : 0px ; 
+	padding : 0px ;
+	
+	}
+
+.first {	width : 100% ;
+		height : 70px ;
+		background-color : #e6e6e6 ;
+		text-align : center ;
+	}
+
+
+.fa {		margin-left : -15px ;
+		font-size : 30px  ;
+		}
+
+.fa:hover {		text-shadow : 0px 0px 02px black ;
+			font-size : 35px ;
+			
+		}
+
+.first h1{		margin : 0px 550px 0px 630px ;
+			color : red ;
+			font-weight : bold ;
+			display : inline-block ;
+			font-family : 'pacifico',cursive ;
+	}
+
+
+
+
+.first button {		padding : 10px 15px  ;
+				display : inline-block ;
+				border : 2px solid black ; 
+				box-shadow : 2px 2px 2px black ;
+		}	
+
+.first button:hover {	text-shadow : 2px 0px 02px white ; 
+				color : white ;
+				background-color : red ;
+				font-size : 15px ;
+			}
+
+/*------------------------------------------------------------------*/
+
+.second {		width : 100% ;
+			height : 400px ;
+			background : linear-gradient( rgba(255,255,255,0.7) , rgba(255,255,255,0.7) ) , url("../abc.jpg")  ; 	
+			text-align : center ;
+			background-size : cover ;
+			background-position : center ;
+			
+		}		
+
+.second p {		color : #404040 ; 
+
+		}
+
+
+.second h1 {	color : #0099ff ;
+			padding-top : 120px ;
+			font-size : 45px  ;
+			font-family: 'Pacifico', cursive;
+			font-family: 'Poppins', sans-serif;
+		}
+
+
+.second button {		padding : 12px 45px ; 
+				color : white ;
+				background-color : red ;
+				margin : 20px 635px ;
+				border-radius : 06px ;
+				
+
+			}
+
+
+.second button:hover {		text-shadow : 0px 0px 02px white ; 
+					background-color : transparent ;
+					font-size : 14px ;
+
+			}
+
+/*------------------------------------------------------------------*/
+
+
+.puradiv  p {	color : grey ;
+
+		 }
+
+.puradiv{		margin : 80px 0px ; 
+
+		}
+
+
+
+.third { 		width : 400px ;
+			height : 500px ;
+			text-align : right ;
+			margin-top : 90px ;
+			margin-left : 50px ;
+			float : left ;
+		}
+			
+
+.third h2 {		color : #0099ff ;
+	
+		}
+
+
+
+
+
+.four{ 		width : 400px ;
+			height : 400px ;
+			display : inline-block ;
+			border-radius : 50% ;
+			margin-left : 90px ;
+			background-image : url("../a.jpg") ;
+			background-size : cover ;
+			background-position : center ;
+		}
+
+
+.four:hover {	box-shadow : 2px 2px 50px 10px blue ;
+
+		}
+
+
+.five { 		width : 300px ;
+			height : 400px ;
+			margin-top : 90px ;
+			margin-right : 150px ;
+			float : right ;
+		}
+			
+
+.five h2 {		color : #0099ff ;
+	
+		}
+
+
+.five p {		text-align : left ; 
+
+		}
+
+
+
+/*------------------------------------------------------------------*/
+
+
+
+
+.six {	width : 100% ;
+		height : 300px ;
+		background-color : red ;
+		color : white ;
+		font-weight : solid ;
+		text-align : center ; 
+
+	}
+
+.six h1  {		padding-right : 440px ; 
+			text-align : center ; 
+			padding-top : 70px ;
+		}
+
+
+
+
+
+/*------------------------------------------------------------------*/
+
+.P2 {		
+		margin : 40px 170px ;
+	} 
+
+.P2 h2 {	color : #0099ff ;
+		padding : 15px 0px 05px 15px ; 
+
+	}
+
+
+.P2 p {	padding : 15px 0px 0px 15px ; 
+		color : grey ;}
+
+
+
+
+
+.seven , .eight , .nine {	width : 320px ;
+					height : 320px ;
+					display : inline-block ; 
+					border : 2px solid grey ;
+					border-radius : 06px ;
+				}
+
+
+.eight {		margin : 0px 70px ;
+
+		}
+
+
+
+.seven img{		width : 320px ;
+			height : 170px ; 
+			border-radius : 04px 04px 0px 0px  ;
+			
+		} 
+
+
+.seven img:hover {	box-shadow : 2px 2px 10px 8px #666666 ;
+
+		}
+
+
+.eight img{		width : 320px ;
+			height : 170px ;
+			border-radius : 04px 04px 0px 0px  ;
+
+		} 
+
+
+.eight img:hover {	box-shadow : 2px 2px 10px 8px black;
+
+		}
+
+
+.nine img{		width : 320px ;
+			height : 170px ;
+			border-radius : 04px 04px 0px 0px  ;			
+
+		} 
+
+
+.nine img:hover {	box-shadow : 2px 2px 10px 8px #666666 ;
+
+		}
+
+
+/*------------------------------------------------------------------*/
+
+
+.ten {	width ; 100% ;
+		height : 280px ; 
+		background-color : #0099ff ;
+		color : white ;
+		text-align : center ;
+		
+	} 
+
+
+.ten h1{	padding-top : 100px ;
+		font-family: 'Pacifico', cursive;
+		font-family: 'Poppins', sans-serif;
+
+	 }	
+
+
+.ten ul li {	display : inline-block ;
+			font-size : 17px ; }
+
+
+.la {		margin :  0px 50px ; }
+
+
+
+hr{		width : 400px ; 
+		margin-left :  520px ; 
+	}
+
+.ten i {	margin-right : 10px ;
+
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
